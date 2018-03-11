@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rules of Survival Guide</string>
+    <string name="btn1_text">Tip for Beginners</string>
+    <string name="btn2_text">ROS Guide</string>
+    <string name="btn3_text">Gun Guide</string>
+    <string name="btn4_text">Free Diamonds</string>
+</resources>
